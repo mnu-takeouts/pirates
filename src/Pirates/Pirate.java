@@ -1,4 +1,4 @@
-package Parates;
+package Pirates;
 
 /**
  * Created by Danila on 15.02.2017.
