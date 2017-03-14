@@ -77,7 +77,7 @@ public class PiratesList implements List<Pirate> {
 
     @Override
     public void clear() {
-        System.out.println("cleared3");
+        System.out.println("cleared1");
     }
 
     @Override
