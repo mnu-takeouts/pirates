@@ -1,4 +1,4 @@
-package Parates;
+package Pirates;
 
 import java.util.Collection;
 import java.util.Iterator;
